@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(PalindromeDatesTest, org.scalatest.tools.Framework$$anon$1@4d63ec5f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPalindromeDatesTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misPalindrome[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return true for palindromic dates[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mformatDate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should format dates correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misLeapYear[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correctly identify leap years[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mfindNextPalindromicDates[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct parindromic dates and their quantity[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 213 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PalindromeDatesTest[0m
